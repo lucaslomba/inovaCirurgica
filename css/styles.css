@@ -10976,6 +10976,10 @@ header.masthead {
   text-align: center;
   color: #fff;
   background-image: url("../assets/img/header-bg.jpg");
+  min-height: 100vh;
+  display:flex;
+  align-items: flex-end;
+  justify-content: flex-end;
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
